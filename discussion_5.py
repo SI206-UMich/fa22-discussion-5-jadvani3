@@ -85,7 +85,7 @@ class TestAllMethods(unittest.TestCase):
 
 	## Check to see whether warehouse correctly returns the item with the most stock
 	def test_warehouse_max_stocks(self):
-		pass
+		w = Warehouse
 
 
 	# Check to see whether the warehouse correctly return the item with the highest price
